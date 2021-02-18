@@ -1,0 +1,10 @@
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\obj\Debug\BattleShipLite.csprojAssemblyReference.cache
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\obj\Debug\BattleShipLite.csproj.CoreCompileInputs.cache
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\bin\Debug\BattleShipLite.exe.config
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\bin\Debug\BattleShipLite.exe
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\bin\Debug\BattleShipLite.pdb
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\bin\Debug\BattleShipLiteLibrary.dll
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\bin\Debug\BattleShipLiteLibrary.pdb
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\obj\Debug\BattleShipLite.csproj.CopyComplete
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\obj\Debug\BattleShipLite.exe
+C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLite\obj\Debug\BattleShipLite.pdb
