@@ -1,0 +1,7 @@
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\bin\Debug\InterfaceDemoApp.exe.config
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\bin\Debug\InterfaceDemoApp.exe
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\bin\Debug\InterfaceDemoApp.pdb
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\obj\Debug\InterfaceDemoApp.csprojAssemblyReference.cache
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\obj\Debug\InterfaceDemoApp.csproj.CoreCompileInputs.cache
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\obj\Debug\InterfaceDemoApp.exe
+C:\Users\ArchieChoke\source\CSharpFoundations\InterfaceDemoApp\InterfaceDemoApp\obj\Debug\InterfaceDemoApp.pdb
