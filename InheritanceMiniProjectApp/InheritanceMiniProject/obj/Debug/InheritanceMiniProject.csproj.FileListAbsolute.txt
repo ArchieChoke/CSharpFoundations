@@ -1,0 +1,7 @@
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.exe.config
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.exe
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\bin\Debug\InheritanceMiniProject.pdb
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csprojAssemblyReference.cache
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.csproj.CoreCompileInputs.cache
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.exe
+C:\Users\ArchieChoke\source\repos\InheritanceMiniProjectApp\InheritanceMiniProject\obj\Debug\InheritanceMiniProject.pdb

@@ -1,0 +1,7 @@
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe.config
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.exe
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\bin\Debug\ExtensionMethodDemo.pdb
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csprojAssemblyReference.cache
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.exe
+C:\Users\ArchieChoke\source\repos\ExtensionMethodDemoApp\ExtensionMethodDemo\obj\Debug\ExtensionMethodDemo.pdb

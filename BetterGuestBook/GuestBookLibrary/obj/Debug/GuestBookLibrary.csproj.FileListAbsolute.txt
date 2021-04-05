@@ -1,0 +1,6 @@
+C:\Users\ArchieChoke\source\repos\BetterGuestBook\GuestBookLibrary\bin\Debug\GuestBookLibrary.dll
+C:\Users\ArchieChoke\source\repos\BetterGuestBook\GuestBookLibrary\bin\Debug\GuestBookLibrary.pdb
+C:\Users\ArchieChoke\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.csprojAssemblyReference.cache
+C:\Users\ArchieChoke\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ArchieChoke\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.dll
+C:\Users\ArchieChoke\source\repos\BetterGuestBook\GuestBookLibrary\obj\Debug\GuestBookLibrary.pdb
