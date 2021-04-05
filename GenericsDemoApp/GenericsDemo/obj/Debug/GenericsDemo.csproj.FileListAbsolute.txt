@@ -1,0 +1,7 @@
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe.config
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.exe
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\bin\Debug\GenericsDemo.pdb
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csprojAssemblyReference.cache
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.csproj.CoreCompileInputs.cache
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.exe
+Z:\Google Drive\Studies\Coding\CSharp\CSharpFoundation\GenericsDemoApp\GenericsDemo\obj\Debug\GenericsDemo.pdb
