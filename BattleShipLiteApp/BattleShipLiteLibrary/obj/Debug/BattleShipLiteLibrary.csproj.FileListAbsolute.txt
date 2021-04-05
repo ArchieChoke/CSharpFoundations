@@ -1,6 +1,0 @@
-C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLiteLibrary\bin\Debug\BattleShipLiteLibrary.dll
-C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLiteLibrary\bin\Debug\BattleShipLiteLibrary.pdb
-C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.csprojAssemblyReference.cache
-C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.csproj.CoreCompileInputs.cache
-C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.dll
-C:\Users\ArchieChoke\source\repos\BattleShipLiteApp\BattleShipLiteLibrary\obj\Debug\BattleShipLiteLibrary.pdb
